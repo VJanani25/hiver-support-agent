@@ -1,0 +1,34 @@
+{
+  "account_access": {
+    "description": "Login, password, verification, or account access problems.",
+    "keywords": ["login", "log in", "password", "locked", "verification", "sign in", "access"]
+  },
+  "billing_payment": {
+    "description": "Charges, duplicate charges, payment failures, or billing questions.",
+    "keywords": ["charged", "charge", "payment", "billing", "card", "invoice", "duplicate", "fee"]
+  },
+  "refund_cancellation": {
+    "description": "Refund, cancellation, reversal, or stopping a service request.",
+    "keywords": ["refund", "cancel", "cancellation", "money back", "reverse", "unsubscribe"]
+  },
+  "delivery_status": {
+    "description": "Shipping, delivery, tracking, delay, or missing-order questions.",
+    "keywords": ["delivery", "delivered", "shipping", "tracking", "order", "late", "missing"]
+  },
+  "technical_issue": {
+    "description": "A product, app, website, or technical feature is not working.",
+    "keywords": ["error", "bug", "broken", "not working", "crash", "technical", "app"]
+  },
+  "product_information": {
+    "description": "A request for product, plan, feature, availability, or policy information.",
+    "keywords": ["how", "where", "when", "available", "feature", "information", "price", "plan"]
+  },
+  "complaint": {
+    "description": "A negative experience that does not fit a narrower operational intent.",
+    "keywords": ["angry", "terrible", "unhappy", "complaint", "awful", "disappointed", "frustrated"]
+  },
+  "other": {
+    "description": "Ambiguous or unsupported messages.",
+    "keywords": []
+  }
+}
