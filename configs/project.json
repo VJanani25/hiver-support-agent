@@ -1,0 +1,9 @@
+{
+  "dataset": "thoughtvector/customer-support-on-twitter",
+  "selected_brand": "demo_fixture_only",
+  "brand_selection_status": "replace_after_inspection",
+  "random_seed": 17,
+  "min_retrieval_similarity": 0.16,
+  "min_auto_handle_confidence": 0.62,
+  "max_evidence": 3
+}
